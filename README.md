@@ -66,7 +66,7 @@ Following in the footsteps of the original popular [IPEM boards](https://github.
 
 **IPEM NB-IoT** connectivity allows Wi-Fi connections to 2.4GHz or 5GHz, with Bluetooth, Thread and Zigbee.  In addition, you may also use the inbuilt NB-IoT GPRS SIM7000G.
 
-## [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
+## [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
 ## *Preview*
 ![PREVIEW of IPEM NB-IoT in DIN Enclosure Accessories](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20Plus%20in%20DIN%20Enclosure%20(Accessories).png)
