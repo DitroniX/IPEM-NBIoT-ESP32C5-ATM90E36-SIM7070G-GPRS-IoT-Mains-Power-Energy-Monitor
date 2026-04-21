@@ -160,6 +160,7 @@ The IPEM  Plus board can be used in a number of projects and installations such 
 
 ## Updates
 
+-   26-04-18 - Target Manufacture June 2026
 -   26-04-18 - Project Information Review
 -   26-04-02 - In Beta Development 
 -   26-04-01 - Project Launched
