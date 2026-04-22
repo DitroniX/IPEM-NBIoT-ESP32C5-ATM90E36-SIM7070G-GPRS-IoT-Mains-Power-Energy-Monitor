@@ -11,7 +11,7 @@
 
 ![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
 
-[Learn more about NB-IoT](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT?)
+[Learn more about NB-IoT](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F)
 
 ## Welcome to IPEM NB-IoT
 
