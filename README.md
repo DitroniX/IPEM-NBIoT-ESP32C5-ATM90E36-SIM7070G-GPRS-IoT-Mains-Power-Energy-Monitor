@@ -1,21 +1,21 @@
 
-# IPEM NBIoT | ESP32C5 ATM90E36 SIM7000G GPRS IoT Mains Power Energy Monitor
+# IPEM NB-IoT | ESP32C5 ATM90E36 SIM7070G GPRS IoT Mains Power Energy Monitor
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
 Pre-Release Information
 
-[![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki)
+[![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki)
 
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor?tab=readme-ov-file#updates)
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor?tab=readme-ov-file#updates)
 
-![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
+![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
 
 ## Welcome to IPEM NB-IoT
 
 The new **IPEM NB-IoT** STEM board has been launched, with expected availability in June.
 
-**IPEM NB-IoT**  is a powerful ATM90E36 Smart Home and Industry Automation, [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.
+**IPEM NB-IoT**  is a powerful ATM90E36 Smart Home and Industry Automation, [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.
 
 ### Standalone or Integrated Remote
 
@@ -23,7 +23,7 @@ The new **IPEM NB-IoT** STEM board has been launched, with expected availability
 
 The **IPEM NB-IoT** is a 'standalone board', where its ESP32-C5, interfaces with ESPHome firmware (as an example).. If preferred, you could easily send MQTT messages.  As it is ESP based, it will just power up and work.  No waiting to boot up.
 
-![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
+![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
 
 **IPEM NB-IoT** runs locally, or via Home Assistant, Domoticz etc., or via an IoT remote service. 
 
@@ -41,7 +41,7 @@ Extending further, the built-in GPRS NB-IoT GSM radio opens up long range and fu
 
 ### How does the Power Energy Monitor Work?
 
-A power energy monitor is a device that safely samples the [AC Voltage, and Current flow](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F), from one, or more, electrical phases, and from this, derives a range of accurate mains power measurements which can then be used for smart metering, or energy monitoring purposes.
+A power energy monitor is a device that safely samples the [AC Voltage, and Current flow](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F), from one, or more, electrical phases, and from this, derives a range of accurate mains power measurements which can then be used for smart metering, or energy monitoring purposes.
 
 These individual measurements can then be extrapolated into a range of useful real-time data such as total RMS Power, Active, Re-Active Power, Harmonic Power, Power Factor, Phase Angles, Frequency, etc.
 
@@ -53,9 +53,9 @@ Flexible monitoring of both AC Voltage and AC Current is important for any insta
 
 The below links go into more detail of these options.
 
-[AC Voltage Monitoring](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/AC-Mains-Voltage-Sense-Input)
+[AC Voltage Monitoring](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/AC-Mains-Voltage-Sense-Input)
 
-[AC Current Monitoring](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/AC-Current-and-Power-Monitoring)
+[AC Current Monitoring](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/AC-Current-and-Power-Monitoring)
 
 
 ### IPEM Continuity
@@ -64,7 +64,7 @@ Following in the footsteps of the original popular [IPEM boards](https://github.
 
 **IPEM NB-IoT** is a self-contained ESP32-C5 based IoT monitoring board. Ideal for local, or remoting, monitoring requirements.
 
-**IPEM NB-IoT** connectivity allows Wi-Fi connections to 2.4GHz or 5GHz, with Bluetooth, Thread and Zigbee.  In addition, you may also use the inbuilt NB-IoT GPRS SIM7000G.
+**IPEM NB-IoT** connectivity allows Wi-Fi connections to 2.4GHz or 5GHz, with Bluetooth, Thread and Zigbee.  In addition, you may also use the inbuilt NB-IoT GPRS SIM7070G.
 
 ## [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
@@ -210,4 +210,4 @@ Electronics Engineer | Software Developer | R&D Support | RF Engineering | Produ
 
 
 
-Tags: 	1-3 Phase, 2.4GHz, 3P3W, 3P4W, 5-20V DC Input, 5GHz, NB-IoT, NBIoT, 90E36, ADC, Agriculture, atm90e36, Bluetooth, Board, Delta, Digital Temperature Sensor, DIN Enclosure, Display, DMX, DMX512, Educational, EEPROM, Energy Monitor, ESP32-C5, ESP32C5, Expansion Interface, Farming, Galvanic Isolated Output, Home, Home Assistant, Housing, I2C Interface, Industrial, Industry, Inputs, IoT, ipem, IPEM NB-IoT, JST 12W 1mm, JST 6W 1mm, JST SH, GPRS, Mains Monitoring, MicroSD, OLED, Opto Isolator, Poly-Phase Metering, Remote Monitoring, RGB WS2812, RS-485, RS485, RTC, SDK, Smart Home, Smart Industrial, Solar, Solar Farm, SPI Interface, Star, STEM, SIM7000G, Tactile Button, Thread, TMP102, Type C, UART, User Panel, Wi-Fi, Wi-Fi 6, WS2811, WS2812, Zigbee
+Tags: 	1-3 Phase, 2.4GHz, 3P3W, 3P4W, 5-20V DC Input, 5GHz, NB-IoT, NBIoT, 90E36, ADC, Agriculture, atm90e36, Bluetooth, Board, Delta, Digital Temperature Sensor, DIN Enclosure, Display, DMX, DMX512, Educational, EEPROM, Energy Monitor, ESP32-C5, ESP32C5, Expansion Interface, Farming, Galvanic Isolated Output, Home, Home Assistant, Housing, I2C Interface, Industrial, Industry, Inputs, IoT, ipem, IPEM NB-IoT, JST 12W 1mm, JST 6W 1mm, JST SH, GPRS, Mains Monitoring, MicroSD, OLED, Opto Isolator, Poly-Phase Metering, Remote Monitoring, RGB WS2812, RS-485, RS485, RTC, SDK, Smart Home, Smart Industrial, Solar, Solar Farm, SPI Interface, Star, STEM, SIM7070G, Tactile Button, Thread, TMP102, Type C, UART, User Panel, Wi-Fi, Wi-Fi 6, WS2811, WS2812, Zigbee

@@ -1,4 +1,4 @@
-# IPEM NBIoT | ESP32C5 ATM90E36 SIM7000G GPRS IoT Mains Power Energy Monitor
+# IPEM NB-IoT | ESP32C5 ATM90E36 SIM7070G GPRS IoT Mains Power Energy Monitor
 
 ------------
 
