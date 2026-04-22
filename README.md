@@ -11,19 +11,24 @@
 
 ![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
 
+[Learn more about NB-IoT](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT?)
+
 ## Welcome to IPEM NB-IoT
 
 The new **IPEM NB-IoT** STEM board has been launched, with expected availability in June.
 
 **IPEM NB-IoT**  is a powerful ATM90E36 Smart Home and Industry Automation, [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.
 
+### NB-IoT Technology
+
+The **IPEM NB-IoT** incorporates the SIM7070G, compact, low-power, global multi-band cellular module, which support NB-IoT, Cat-M (LTE-M), and GPRS (2G) technologies.   It also includes a GNSS receiver for GPS, GLONASS, Galileo and BeiDou, satellite positioning.
+
+
 ### Standalone or Integrated Remote
 
 **IPEM NB-IoT**  has been designed to easily monitor, and offer a flexible interface too, a whole range Mains AC Power installations.
 
 The **IPEM NB-IoT** is a 'standalone board', where its ESP32-C5, interfaces with ESPHome firmware (as an example).. If preferred, you could easily send MQTT messages.  As it is ESP based, it will just power up and work.  No waiting to boot up.
-
-![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
 
 **IPEM NB-IoT** runs locally, or via Home Assistant, Domoticz etc., or via an IoT remote service. 
 
