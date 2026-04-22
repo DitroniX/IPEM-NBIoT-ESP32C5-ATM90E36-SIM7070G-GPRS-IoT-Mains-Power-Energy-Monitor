@@ -136,7 +136,7 @@ All AC Mains is safely and galvanically isolated using a low voltage transformer
 
 ### Where can IPEM NB-IoT be used?
 
-The IPEM  NB-IoT board can be used in a number of projects and installations such as:
+The IPEM  NB-IoT board maybe used in a number of projects and installations such as:
 
 -   Homes
     
@@ -168,9 +168,6 @@ The IPEM  NB-IoT board can be used in a number of projects and installations suc
 
 - Remote and/or Hill Top Sites
 
-
-
-
 ## Updates
 
 -   26-04-22 - SIM7000G changed to SIM7070G.  This provides full compatibility but with improved specification.
@@ -181,7 +178,7 @@ The IPEM  NB-IoT board can be used in a number of projects and installations suc
 
 ## Preliminary Information and Spec to follow 
 
-[Feature List Comparison](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
+[Feature List Comparison](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
 ### Availability
 
